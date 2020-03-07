@@ -1,2 +1,2 @@
-# marioLike-phaser
-EMC131P Project
+# platformerGame
+Super Mario-like game
